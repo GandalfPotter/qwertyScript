@@ -5,7 +5,7 @@ everything excpeting these letters are commented, including all undercase letter
 
 variables work in an integer stack, you can push and pop and modify the elements.
 
-Q: push a number 0 through 9 to the stack by putting a letter Q through P directly after
+Q: push a number 0 through 9 to the stack by putting a letter Q through P directly after<br>
     example: QT - push 4 to stack
 W: remove top element from stack
 E: print the top element of the stack as a number
