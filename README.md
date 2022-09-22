@@ -1,6 +1,7 @@
 # qwertyScript
 a ridiculous scripting language where the only commands are letters of QWERTYUIOP.
 
+INSTRUCTIONS:
 everything excpeting these letters are commented, including all undercase letters of qwertyuiop.
 
 variables work in an integer stack, you can push and pop and modify the elements.
@@ -17,5 +18,9 @@ I: divide the second top element by the top element and leave the quotient<br>
 O: divide the top two elements and leave the remainder<br>
 P: duplicate the top element<br>
 
+BUILDING:
+to build the project, just javac Main.java using openjdk 17
+
+RUNNING:
 To run a qwerty script, run the java file and put the script path in the argument.<br>
 To debug a script, put anything in the second argument.
