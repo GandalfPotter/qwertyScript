@@ -19,8 +19,8 @@ O: divide the top two elements and leave the remainder<br>
 P: duplicate the top element<br>
 
 BUILDING:
-to build the project, just javac Main.java using openjdk 17
+to build the project, just javac Main.java
 
 RUNNING:
 To run a qwerty script, run the java file and put the script path in the argument.<br>
-To debug a script, put anything in the second argument.
+To debug a script, type anything at all in the second argument.
