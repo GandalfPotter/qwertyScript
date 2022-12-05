@@ -98,7 +98,6 @@ public class Main{
 						
 			d++;
 		}
-		System.out.print("\n");
 	}
 
 	public static String ReadFile(String fileName) throws FileNotFoundException{
