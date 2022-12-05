@@ -74,7 +74,7 @@ public class Main{
 			
 			else if(script.charAt(d)=='I'){//divide
 				if(s.size()>1){
-					s.add(0,s.get(0)/s.get(1));
+					s.add(0,s.get(1)/s.get(0));
 					s.remove(1);
 					s.remove(1);
 				}
